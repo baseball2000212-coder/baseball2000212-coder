@@ -1,14 +1,14 @@
 ### 안녕하세요 👋
 
-옵션 리서치를 하고, 필요한 데이터는 직접 모으고, 전략을 백테스트하는 공간입니다. 가끔은 백테스트 숫자에 속기도 합니다 🤣
+옵션 리서치를 하고, 필요한 데이터는 직접 모으고, 전략을 백테스트하는 공간입니다.
 
 * 🔭 지금은 **SPX 0DTE 옵션 전략**을 NH선물 REST API로 실매매에 옮기는 준비를 하고 있습니다
-* 🎓 **고려대학교 경영학과** (2027년 2월 졸업 예정)
-* 📚 금융공학 학회 **UFEA 42기** — 교재 세미나와 IRS·ELS 가치평가 실습
+* 🎓 **고려대학교 경영학과** 20학번
+* 📚 금융공학 학회 **UFEA 42기**
+* 📖 세미나 교재: Neftci, *Principles of Financial Engineering* · Taleb, *Dynamic Hedging*
 * 🌱 요즘 공부하는 것: **변동성과 감마 트레이딩**, 델타헤지 손익, 호가·체결 같은 시장 미시구조
 * 💬 이런 얘기를 좋아합니다: **0DTE 옵션 · 풋콜 패리티 · 체결 가정 검증 · 옵션 데이터 수집 자동화**
 * 📝 공부한 내용은 블로그 [Deep ITM](https://blogger71794.tistory.com)에, 시장 정리는 인스타그램 [@winwin_macro](https://www.instagram.com/winwin_macro)에 올립니다
-* ⚡ 재미있는 사실: 초 단위 호가를 보다가 10:00:00과 10:00:01을 구분하는 사람이 됐습니다
 
 ### ✨ About Me
 
@@ -27,5 +27,3 @@
 * **[kis-data](https://github.com/baseball2000212-coder/kis-data)** — 한국투자증권 Open API로 K200 선물·옵션, 투자자 수급, 미국 지수·종목 데이터를 평일마다 자동 수집. GitHub Actions로 돌리고, 이 데이터로 매일 시장 카드뉴스를 발행합니다.
 
 * **[us-option-chains](https://github.com/baseball2000212-coder/us-option-chains)** — SPY·TSLA·AAPL·NVDA·IBIT 전체 옵션 체인을 하루 10번 정시에 수집. 델타헤지 손익을 감마와 세타로 나눠 보려는 데이터입니다.
-
-백테스트에서 가장 흥미로운 문제는 **숫자가 실제 체결을 만나는 지점** — 호가, 지연, 비용, 그리고 한 번의 큰 날 — 에 있다고 생각합니다.
