@@ -1,7 +1,7 @@
 ### 안녕하세요, 이승윤입니다
 
 - 고려대학교 경영학과 20학번
-- 금융공학 학회 UFEA 42기
+- 금융공학 학회 U.FE.A 42기
 - 세미나 교재: Neftci, *Principles of Financial Engineering* / Taleb, *Dynamic Hedging*
 - 요즘 공부하는 것: 변동성, 감마 트레이딩, 델타헤지 손익
 - 지금은 SPX 0DTE 옵션 전략을 NH선물 REST API로 실매매해 보려고 준비 중입니다
