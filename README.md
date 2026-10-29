@@ -14,7 +14,7 @@
 
 전통 금융시장에서 장내 파생상품 거래 경험이 있으며, 현재는 금융공학 학회 U.FE.A에서 신입회원으로 파생상품 전반에 대한 학습과 헤지 트레이딩, ELS pricing에 대해 공부하고 있습니다.
 
-NH선물 REST API Pioneer 1기에 합격하여 8주동안 국내,해외 파생상품 매매 전략을 설계하고 구현하는 활동에 참여 중입니다.
+NH선물 REST API Pioneer 1기에 합격하여 8주동안 국내,해외 파생상품 매매 전략을 설계하고 구현하는 활동에 참여 중입니다. ([NH_pioneer_VolSkew](https://github.com/baseball2000212-coder/NH_pioneer_VolSkew))
 
 전략 설계, 리서치, 결과 해석은 직접 했으며, 코드는 AI 코딩 도구(Claude Code)를 이용했습니다.
 
